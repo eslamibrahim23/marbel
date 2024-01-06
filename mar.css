@@ -1,0 +1,23 @@
+div {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.hidden {
+    width: 80px;
+    height: 80px;
+    padding: 60px;
+  }
+
+button{
+  width: fit-content;
+  height: fit-content;
+  font-size: 50px;
+  text-align: center;
+  position: relative;
+  top: 500px;
+  left: 500px;
+
+}
+  
